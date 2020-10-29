@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bogus" Version="31.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Article.Api.DataAccess\Article_Api.DataAccess.csproj" />
+    <ProjectReference Include="..\Article.Api.Entities\Article_Api.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

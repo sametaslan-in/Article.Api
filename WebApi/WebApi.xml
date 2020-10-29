@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controller.ArticleController.GetFakeData">
+            <summary>
+            Generates 500 fake data
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controller.ArticleController.Get">
+            <summary>
+            Get All Article
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controller.ArticleController.Get(System.Int32)">
+            <summary>
+            Get Article By ID
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controller.ArticleController.Post(Article_Api.Entities.Article)">
+            <summary>
+            Create An Article
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controller.ArticleController.Put(Article_Api.Entities.Article)">
+            <summary>
+            Update The Article
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controller.ArticleController.delete(System.Int32)">
+            <summary>
+            Delete The Article
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
