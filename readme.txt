@@ -34,6 +34,9 @@ Projeyi 3 saat gibi bir sürede geliştirdim.Bunun sebebi daha önce .Net Core k
 Araştırmayı severim ve bir işi eninde sonunda yaparım.
 
 
+Database kurulumu için dbconfig.txt dosyasına göz atmanız yeterlidir.
+
+
 
 
 
