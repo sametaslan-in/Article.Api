@@ -24,14 +24,6 @@ Data access Katmanı: Entitiy Framework Uygulamalarının olduğu katman.
 Business katmanı:İş kurallarının olduğu katman.
 Web Api Katmanı:APİ KATMANI
 
-3-Daha geniş vaktiniz olsaydı projeye neler eklemek isterdiniz?
-Asynchronous Programlama yapmak isterdim.
-JWT Eklemek isterdim.
-Verileri kategorileştirmek ve verileri işlemeyi isterdim.
-
-4-Eklemek istediğiniz bir yorumunuz var mı?
-Projeyi 3 saat gibi bir sürede geliştirdim.Bunun sebebi daha önce .Net Core kullanmamış olmamdı. .Net Core daha fazla yoğunlaşacağım.
-
 
 
 Database kurulumu için dbconfig.txt dosyasına göz atmanız yeterlidir.
